@@ -21,3 +21,10 @@ Open the browser
 ```bash
 http://localhost:3000
 ```
+
+How to Login
+------------------------------------
+```bash
+username : admin
+password : admin
+```
